@@ -11,10 +11,13 @@ A modern Flutter restaurant application UI with a clean and responsive design.
 - Responsive Layout
 - Smooth Scrolling
 
-## Screenshots
+## Screenshots 
 
 ### Home Screen
-![Home Screen](screenshots/home_screen.jpg)
+![Home Screen](screenshots/screen1.jpg)
+
+### Restaurants
+![Restaurants](screenshots/screen2.jpg)
 
 ## Built With
 
